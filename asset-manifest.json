@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/avadeskoursdataapp/static/css/main.7e31679b.chunk.css",
+    "main.js": "/avadeskoursdataapp/static/js/main.d74058d4.chunk.js",
+    "main.js.map": "/avadeskoursdataapp/static/js/main.d74058d4.chunk.js.map",
+    "runtime-main.js": "/avadeskoursdataapp/static/js/runtime-main.5d181faf.js",
+    "runtime-main.js.map": "/avadeskoursdataapp/static/js/runtime-main.5d181faf.js.map",
+    "static/js/2.ebb00f56.chunk.js": "/avadeskoursdataapp/static/js/2.ebb00f56.chunk.js",
+    "static/js/2.ebb00f56.chunk.js.map": "/avadeskoursdataapp/static/js/2.ebb00f56.chunk.js.map",
+    "index.html": "/avadeskoursdataapp/index.html",
+    "precache-manifest.53063e5d92487ea46e4d4b4091afc1a2.js": "/avadeskoursdataapp/precache-manifest.53063e5d92487ea46e4d4b4091afc1a2.js",
+    "service-worker.js": "/avadeskoursdataapp/service-worker.js",
+    "static/css/main.7e31679b.chunk.css.map": "/avadeskoursdataapp/static/css/main.7e31679b.chunk.css.map",
+    "static/js/2.ebb00f56.chunk.js.LICENSE.txt": "/avadeskoursdataapp/static/js/2.ebb00f56.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d181faf.js",
+    "static/js/2.ebb00f56.chunk.js",
+    "static/css/main.7e31679b.chunk.css",
+    "static/js/main.d74058d4.chunk.js"
+  ]
+}
